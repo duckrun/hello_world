@@ -13,3 +13,5 @@ test1
 
 meifang
 duck
+
+from editor
