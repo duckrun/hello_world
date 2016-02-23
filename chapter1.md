@@ -1,7 +1,5 @@
-# First Chapter
+# ch01 introduction
 
 GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
 
 
-# Second Chapter
-the second chapter
