@@ -21,4 +21,8 @@ from editor
 
 abc
 
+<<<<<<< HEAD
 github
+=======
+iduckrun
+>>>>>>> a6d58c03308bca31c0c5fd9dfa9b18de199c124b
